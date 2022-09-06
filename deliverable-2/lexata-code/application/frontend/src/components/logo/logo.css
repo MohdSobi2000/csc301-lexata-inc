@@ -1,0 +1,26 @@
+.logo__container {
+    width: 65vw;
+    height: 7vh;
+    align-self: flex-start;
+    margin-left: 3vw;
+    display: flex;
+    flex-direction: row;
+    margin-top: 0.1vh;
+}
+
+.logo__img {
+    width: 150px;
+}
+
+.logo__link {
+    align-self: center;
+}
+
+.logo__slogan {
+    font-style: italic;
+    color: #4e5456;
+    padding-bottom: 5px;
+    letter-spacing: 0.03vw;
+    margin-left: 0.01vw;
+    align-self: center;
+}

@@ -1,0 +1,45 @@
+.searchpage__container {
+    display: flex;
+    flex-direction: row;
+}
+
+.searchpage__left-col {
+    display: flex;
+    flex-direction: column;
+    width: 80vw
+}
+
+.searchpage__right-col {
+    margin-right: 10vw;
+    height: 100vh
+}
+.searchpage__risk-factor-title {
+    align-self: flex-start;
+    margin-left: 4vw;
+    font-size: xx-large;
+}
+.searchpage__result-container {
+    width: 60vw;
+    text-align: left;
+    margin-top: 3vh;
+    margin-left: 3vw;
+    overflow: scroll;
+}
+
+.searchpage__search-result-for {
+    align-self: flex-start;
+    font-size: large;
+    margin-left: 3.5vw;
+    margin-top: 7vh;
+    margin-bottom: 0;
+}
+
+.searchpage__loading-spinner {
+    align-self: center;
+    margin-top: 10vh !important;
+}
+
+.searchpage__entry-box{
+    display: flex;
+    flex-direction: row;
+}

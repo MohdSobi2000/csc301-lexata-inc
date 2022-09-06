@@ -1,0 +1,20 @@
+.navbar {
+    background-color: #1a1919;
+    color: #F7F5FB;
+    width: 100vw;
+    height: 6vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar__title {
+    margin-left: 2vw;
+    color: #F7F5FB;
+    background-color: transparent;
+    font-size: 1.2vw;
+    font-weight: bold;
+    border: none;
+    margin-right: 2vw;
+    text-decoration: none;
+}

@@ -1,0 +1,21 @@
+.footer__container {
+    background-color: #1a1919;
+    color: #F7F5FB;
+    width: 100vw;
+    height: 20vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 2vh;
+    left: 0;
+    bottom: 0;
+    font-size: 1vw;
+    margin-top: 5vh;
+    position: relative;
+}
+
+.footer__section {
+    display: flex;
+    flex-direction: column;
+}
+

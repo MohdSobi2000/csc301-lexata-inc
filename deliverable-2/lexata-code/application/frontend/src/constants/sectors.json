@@ -1,0 +1,50 @@
+{
+    "Utilities": {
+        "en": "Utilities",
+        "fr": "French Utilities"
+    },
+    "Industrials": {
+        "en": "Industrials",
+        "fr": "French Industrials"
+    },
+    "Communication Services": {
+        "en": "Communication Services",
+        "fr": "French Communication Services"
+    },
+    "Consumer Discretionary": {
+        "en": "Consumer Discretionary",
+        "fr": "French Consumer Discretionary"
+    },
+    "Materials": {
+        "en": "Materials",
+        "fr": "French Materials"
+    },
+    "Large cap": {
+        "en": "Large cap",
+        "fr": "French Large cap"
+    },
+    "Health Care": {
+        "en": "Health Care",
+        "fr": "French Health Care"
+    },
+    "Real Estate": {
+        "en": "Real Estate",
+        "fr": "French Real Estate"
+    },
+    "Financials": {
+        "en": "Financials",
+        "fr": "French Financials"
+    },
+    "Energy": {
+        "en": "Energy",
+        "fr": "French Energy"
+    },
+    "Consumer Staples": {
+        "en": "Consumer Staples",
+        "fr": "French Consumer Staples"
+    },
+    "Information Technology": {
+        "en": "Information Technology",
+        "fr": "French Information Technology"
+    }
+}

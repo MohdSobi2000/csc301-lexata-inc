@@ -1,0 +1,36 @@
+.privacy-policy__container {
+    display: flex;
+    flex-direction: column;
+}
+
+.privacy-policy__title {
+    align-self: flex-start;
+    margin-left: 4vw;
+    font-size: xx-large;
+}
+.privacy-policy__par {
+    text-align: left;
+    width: 80vw;
+}
+.privacy-policy__par-title{
+    font-family: Roboto;
+    font-weight: 300;
+    font-style: italic;
+    font-size: 20px;
+    line-height: 33px;
+
+    align-self: flex-start;
+    margin-left: 6vw;
+}
+
+.privacy-policy__par-text{
+
+    align-self: flex-start;
+    margin-left: 5vw;
+    text-align: justify;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 140.62%;
+}

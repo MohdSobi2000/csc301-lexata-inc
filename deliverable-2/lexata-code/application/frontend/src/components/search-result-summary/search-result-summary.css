@@ -1,0 +1,52 @@
+.search-result-summary__container {
+    width: 60vw;
+    text-align: left;
+    margin-top: 3vh;
+    margin-left: 3vw;
+    /* overflow: scroll; */
+}
+.search-result-summary__first-line{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0;
+}
+
+.search-result-summary__company-name {
+    color: blue;
+    font-size: 1.5vw;
+}
+
+.search-result-summary__details {
+    display: flex;
+    align-items: center;
+
+}
+.search-result-summary__section {
+    color: black;
+    font-size: 1vw;
+    margin-top: 0
+}
+
+.search-result-summary__text {
+    text-align: justify;
+}
+
+.search-result-summary__details-info {
+    display: inline-block;
+    font-size: 0.8vw;
+    margin-right: 0.3vw;
+    margin-left: 0.3vw;
+}
+
+.search-result-summary__readmore {
+    font-size: 0.8vw;
+    color: blue;
+    display: block;
+    text-align: right;
+    cursor: pointer;
+}
+.search-result-summary__seperator {
+    width: 60vw;
+    border-bottom: 1px solid black;
+    position: absolute;   
+}
